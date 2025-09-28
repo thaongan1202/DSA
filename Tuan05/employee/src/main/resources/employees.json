@@ -1,0 +1,7 @@
+[
+  { "employeeCode": "E003", "firstName": "An",    "lastName": "Nguyen",  "salary": 1500.0 },
+  { "employeeCode": "E001", "firstName": "Binh",  "lastName": "Tran",    "salary": 2000.0 },
+  { "employeeCode": "E004", "firstName": "An",    "lastName": "Le",      "salary": 1800.5 },
+  { "employeeCode": "E002", "firstName": "Chi",   "lastName": "Phan",    "salary": 2200.0 },
+  { "employeeCode": "E005", "firstName": "Binh",  "lastName": "Pham",    "salary": 2100.0 }
+]
